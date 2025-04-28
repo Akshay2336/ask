@@ -1,0 +1,8 @@
+a = 27 
+b = 10
+
+c = a+b
+print(Addition is ,'c')
+
+e = a-b
+print(Subtraction is , 'e')
